@@ -5,6 +5,7 @@ id = ca2a7163-dcec-4c6e-bcf0-f94507cee8ac
 
 [relations.collections]
 rootDirectory = postman/collections
+files[] = {"id":"889219-380f4348-cec9-4213-a391-f8483998b48e","path":"d2(1).json","metaData":{}}
 files[] = {"id":"889219-b3cc7b5b-0785-4310-b2fe-1a0381e776d8","path":"d2.json","metaData":{}}
 files[] = {"id":"889219-4d94187e-0eeb-4ff6-b9ae-29babae35bfe","path":"New Collection.json","metaData":{}}
 files[] = {"id":"889219-780a856d-4b30-4b3b-92bc-98ba95bc9b27","path":"SCHEMA DOC.json","metaData":{}}
@@ -14,6 +15,7 @@ files[] = {"id":"889219-780a856d-4b30-4b3b-92bc-98ba95bc9b27","path":"SCHEMA DOC
 [relations.apiDefinition]
 rootDirectory = postman/schemas
 files[] = {"path":"index.yaml","metaData":{}}
+files[] = {"path":"New (1).yaml","metaData":{}}
 files[] = {"path":"New.yaml","metaData":{}}
 files[] = {"path":"New2.yaml","metaData":{}}
 
