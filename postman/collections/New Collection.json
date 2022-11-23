@@ -5,5 +5,33 @@
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_uid": "889219-4d94187e-0eeb-4ff6-b9ae-29babae35bfe"
 	},
-	"item": []
+	"item": [
+		{
+			"name": "New Request",
+			"id": "9eb0f0f2-9169-4109-8091-cc765f3786ab",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "b3d3c764-5ef7-4029-ab4b-9dfbef72caf5",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
 }
